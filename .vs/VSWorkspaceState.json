@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fiorello-backend",
+    "\\Fiorello-backend\\EntityFrameworkProject",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Controllers",
+    "\\Fiorello-backend\\EntityFrameworkProject\\ViewModels",
+    "\\Fiorello-backend\\EntityFrameworkProject\\ViewModels\\ProductViewModels",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Views",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Views\\Account",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Views\\Shared",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Views\\Shared\\Components",
+    "\\Fiorello-backend\\EntityFrameworkProject\\Views\\Shared\\Components\\Header"
+  ],
+  "SelectedNode": "\\Fiorello-backend\\EntityFrameworkProject\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
